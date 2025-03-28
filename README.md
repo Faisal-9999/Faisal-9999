@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking forward to becoming a full stack developer
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal-9999&layout=compact
+![image](https://github.com/user-attachments/assets/8ef6d787-46ef-43d8-a4ab-90398af841db)
+
 
 <!---
 Faisal-9999/Faisal-9999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
