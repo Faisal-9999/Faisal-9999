@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Faisal-9999
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking forward to becoming a full stack developer
+- 👀 I’m interested in Computer Networking and Operating Systems
+- 🌱 I’m currently preparing for my CCNA
 
 ![image](https://github.com/user-attachments/assets/8ef6d787-46ef-43d8-a4ab-90398af841db)
 
