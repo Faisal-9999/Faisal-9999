@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Faisal-9999
-- 👀 I’m interested in Computer Networking and Operating Systems
+- 👀 I like Computer Networks and Operating Systems
+- Trying to get into opensource software currently
 
 
 
